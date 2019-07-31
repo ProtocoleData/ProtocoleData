@@ -1,0 +1,5 @@
+2018-11-06 23:01:03 ERROR  : ERREUR:  la fonction users() n'existe pas
+LINE 1: select users()
+               ^
+HINT:  Aucune fonction ne correspond au nom donné et aux types d'arguments.
+Vous devez ajouter des conversions explicites de type.
