@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Référé Chasse
 description: Sauvons les petits animaux
 logo: /assets/img/logo.png
-show_downloads: true
+show_downloads: false
 google_analytics: [Your Google Analytics tracking ID]
